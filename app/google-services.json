@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "625545994451",
+    "firebase_url": "https://deco-77368.firebaseio.com",
+    "project_id": "deco-77368",
+    "storage_bucket": "deco-77368.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625545994451:android:09b70911dc17aede",
+        "android_client_info": {
+          "package_name": "nextstep.kz.deco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625545994451-5ihsmslrbuqtb0ceafckvjnph4u0qkrf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "nextstep.kz.deco",
+            "certificate_hash": "66df8a6ecf4657a47c2718bc4307908f106b6586"
+          }
+        },
+        {
+          "client_id": "625545994451-r88k49m9ulcj5vmpdv2v7a7hlrt63car.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUUhw30FQjLjIcpMJqgAtnVE-ESby-Bh8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625545994451-r88k49m9ulcj5vmpdv2v7a7hlrt63car.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
